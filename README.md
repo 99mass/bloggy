@@ -7,7 +7,7 @@ Bloggy est une plateforme de blog personnel conçue pour vous permettre de déve
 - **Conception avec Figma :** Utilisez Figma pour créer les maquettes de votre plateforme de blog. Concevez l'interface utilisateur, les différentes pages (Home, About, Pages(My Blog,Blog Detail)), ainsi que les éléments interactifs.
 Il faut maquetter version Laptop, Tablett et Mobile.
   
-- **Intégration HTML/CSS :** Transformez les maquettes en pages web interactives en utilisant HTML et CSS.Pour les icons tu peux les trouves sur https://fontawesome.com  et images sont dans le dosier `i;ages. Assurez-vous de rendre le design responsive pour une expérience utilisateur optimale sur tous les appareils.
+- **Intégration HTML/CSS :** Transformez les maquettes en pages web interactives en utilisant HTML et CSS.Pour les icons tu peux les trouves sur https://fontawesome.com  et les images sont dans le dossier `images`. Assurez-vous de rendre le design responsive pour une expérience utilisateur optimale sur tous les appareils.
 
 - **Ajout d'interactivité avec JavaScript :** Enrichissez votre site avec des fonctionnalités interactives en utilisant JavaScript. Ajoutez des fonctionnalités telles que la navigation dynamique, la validation des formulaires, le chargement asynchrone des blog, etc.
 
