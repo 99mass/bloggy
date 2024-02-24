@@ -9,7 +9,7 @@ Il faut maquetter version Laptop, Tablett et Mobile.
   
 - **Intégration HTML/CSS :** Transformez les maquettes en pages web interactives en utilisant HTML et CSS.Pour les icons tu peux les trouves sur https://fontawesome.com  et les images sont dans le dossier `images`. Assurez-vous de rendre le design responsive pour une expérience utilisateur optimale sur tous les appareils.
 
-- **Ajout d'interactivité avec JavaScript :** Enrichissez votre site avec des fonctionnalités interactives en utilisant JavaScript. Ajoutez des fonctionnalités telles que la navigation dynamique, la validation des formulaires, le chargement asynchrone des blog, etc.
+- **Ajout d'interactivité avec JavaScript :** Enrichissez votre site avec des fonctionnalités interactives en utilisant JavaScript. Ajoutez des fonctionnalités telles que le toggle du navBar, la navigation dynamique, la validation des formulaires, le chargement asynchrone des blog, etc.
 
 - **Développement backend avec PHP :** Implémentez la logique côté serveur en utilisant PHP. Créez une base de données pour stocker les articles de blog, les informations des utilisateurs, etc. Gérez l'authentification des utilisateurs, la création, la modification et la suppression des articles, ainsi que la génération des pages dynamiques.
 
